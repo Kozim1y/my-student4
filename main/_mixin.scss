@@ -1,0 +1,9 @@
+@mixin btn ($pading, $bRadius, $border, $color, $bgColor, $fSize, $fWeight) {
+  padding: $pading;
+  border-radius: $bRadius;
+  border: $border;
+  color: $color;
+background-color: $bgColor;
+font-size: $fSize;
+font-weight: $fWeight;
+}
